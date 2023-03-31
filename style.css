@@ -1,0 +1,24 @@
+html, body {
+    font-size: 16px;
+    height: 100%;
+}
+h1 {
+    background: #ddd;
+    width: 80%;
+    height: 20%;
+    min-height: 2em;
+    font-size: 1.6em;
+}
+h2 {
+    font-size: 1.4em;
+    width: 50vw; /*viewport width | vh viewport heights*/
+    background: #ff4;
+}
+h3 {
+    font-size: 1.2em;
+}
+p {
+    min-height: 500px;
+    font-size: 1em;
+    background: #55ffff;
+}
